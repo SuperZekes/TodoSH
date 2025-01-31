@@ -1,4 +1,7 @@
 # TodoSH
+
+![TodoSH Icon](TodoSH.png "Icon")
+
 A Todo list program for Bash
 
 ## Installation and Usage
